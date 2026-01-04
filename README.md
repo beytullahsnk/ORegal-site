@@ -5,7 +5,6 @@ Version statique du site, prête à être déployée sur n'importe quel héberge
 ## Fichiers
 
 - `index.html` - Page d'accueil
-- `commander.html` - Page de commande
 - `styles.css` - Tous les styles
 - `hero-bg.png` - Image de fond du hero
 - `.htaccess` - Configuration Apache (redirections)
@@ -21,7 +20,6 @@ Version statique du site, prête à être déployée sur n'importe quel héberge
 ```
 html-version/
 ├── index.html
-├── commander.html
 ├── styles.css
 ├── hero-bg.png
 └── .htaccess
